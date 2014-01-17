@@ -1,0 +1,10 @@
+Test-Driven Web Development
+	17-01-2014
+Sergi Rotger Griful
+<sergirotger@gmail.com>
+
+The virtual environment used for this project is named TDD. To run it write
+on the command line:
+
+$ cd ~PhD/Programming/TDD
+$ workon TDD
